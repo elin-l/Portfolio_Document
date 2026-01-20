@@ -4,6 +4,14 @@
  My first portfolio at UofT Daniels Design Discovery Program!
 
 
+(Sorry about that, but we can’t show files that are this big right now.)
+
+^^^ignore this message and click VIEW RAW. You will be able to find my blender file^^^
+
+
+
+### To view my portfolio, click Portfolio.key file and click VIEW RAW
+
 ### Projects:
 
   Park's geographical and historical information research
