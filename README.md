@@ -9,9 +9,3 @@
   Design your park
   3D model of your everyday object and build it
   Reinterpretation: object to building
-  
-
-### Sample image
-![sample](IMG_0279.jpg)
-![sample](IMG_0403.JPG)
-![sample](IMG_0611.JPG)
